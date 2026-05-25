@@ -19,7 +19,7 @@ from .prompts import ROUTE_PROMPT
 
 logger = logging.getLogger(__name__)
 
-MESSAGES_LIMIT = 2
+MESSAGES_LIMIT = 20
 
 
 @dataclass
