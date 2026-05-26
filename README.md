@@ -9,7 +9,7 @@
 - 支持多模态输入（文本、图片(OCR)、语音）；
 
   <img src="resources/screencapture-localhost-8000-2026-05-25-14_00_57.png" style="zoom:10%;" />
-  <img src="resources/screencapture-localhost-8000-2026-05-26-21_24_12.png" style="zoom:10%;" />
+  <img src="resources/screencapture-localhost-8000-2026-05-26-21_39_02.png" style="zoom:10%;" />
 
 - 支持生成文本和图片；
 
