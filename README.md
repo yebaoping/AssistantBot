@@ -10,6 +10,7 @@
 
   <img src="resources/screencapture-localhost-8000-2026-05-25-14_00_57.png" style="zoom:10%;" />
   <img src="resources/screencapture-localhost-8000-2026-05-26-21_39_02.png" style="zoom:10%;" />
+  <img src="resources/screencapture-localhost-8000-2026-05-26-21_51_46.png" style="zoom:10%;" />
 
 - 支持生成文本和图片；
 
