@@ -57,10 +57,12 @@
 
 - 支持上传文档创建知识库；
 
-- 输出支持TTS；
-
 - 支持长任务和离线任务；
 
 - 使用AIO替换Daytona和Playwright及其他browser-use和computer-use功能；
 
-- 使用Google Serper替换Tavily；
+- 使用SearXNG替换Tavily；
+
+- 使用Sequential Thinking替换DeepAgent的分步思考；
+
+- 输出支持TTS；
