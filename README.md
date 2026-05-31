@@ -24,6 +24,8 @@
 
   <img src="resources/screencapture-localhost-8000-2026-05-25-13_36_02.png" style="zoom:10%;" />
 
+- 任务路由。简单任务由ReAct Agent直接执行。复杂任务由Deep Agent对任务进行规划和拆分，SubAgent执行；
+
 - 模型动态切换，不同任务使用不同的模型（支持OpenAI、Anthropic、DeepSeek、Ollama）；
 
 - 支持browser-use和computer-use（在沙盒中操作和执行）；
